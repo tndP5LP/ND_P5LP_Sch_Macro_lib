@@ -23,17 +23,35 @@
 <v>Off-Chip</v>
 </tree_states_tab_names>
 <tree_states>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="CDC Component Catalog">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs\Si8602_HW [v0.0]">
 <ExpandedNodeIds>
 <v>CDC Component Catalog</v>
-<v>CDC Component Catalog\SchematicMacro</v>
+<v>CDC Component Catalog\Off_Chip_Annotation</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\IC</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs</v>
 <v>CDC Component Catalog\SchematicMacro\USB_Audio</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>CDC Component Catalog</v>
+<v>CDC Component Catalog\API_Code</v>
+<v>CDC Component Catalog\Component</v>
+<v>CDC Component Catalog\Off_Chip_Annotation</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Analog</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Connector</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Digital</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Diode</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Display</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\IC</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\IC\CirrusLogic</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\IC\NXP</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs\Si5351A_HW [v0.0]</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs\Si8602_HW [v0.0]</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs\Si8661_HW [v0.0]</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Kit</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\KIT</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Template</v>
 <v>CDC Component Catalog\SchematicMacro</v>
-<v>CDC Component Catalog\SchematicMacro\USB_Audio</v>
-<v>CDC Component Catalog\SchematicMacro\USB_Audio\USB_Audio_I2S_Dataflow [v0.0]</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
