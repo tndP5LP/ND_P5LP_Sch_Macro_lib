@@ -14,10 +14,9 @@
 <WriteAppMarketingVersionLastSavedWith v="4.2" />
 <CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyPrjDependencyList" version="4">
 <wrkspc_dependencies>
-<wrkspc_dependency project="ND_P5LP_Sch_Macro_lib.cylib\ND_P5LP_Sch_Macro_lib.cyprj" dependency="..\..\Components\CharLCD_I2C_lib\CharLCD_I2C.cylib\CharLCD_I2C.cyprj" />
-<wrkspc_dependency project="ND_P5LP_Sch_Macro_lib.cylib\ND_P5LP_Sch_Macro_lib.cyprj" dependency="..\..\Components\Encoder_lib\Encoder_lib.cylib\Encoder_lib.cyprj" />
-<wrkspc_dependency project="ND_P5LP_Sch_Macro_lib.cylib\ND_P5LP_Sch_Macro_lib.cyprj" dependency="..\..\Components\Ext_LCD_lib\Ext_LCD_lib.cylib\Ext_LCD_lib.cyprj" />
-<wrkspc_dependency project="ND_P5LP_Sch_Macro_lib.cylib\ND_P5LP_Sch_Macro_lib.cyprj" dependency="..\..\Components\ND_PSoC_Comp_lib\ND_PSoC_Comp_lib.cylib\ND_PSoC_Comp_lib.cyprj" />
+<wrkspc_dependency project="ND_P5LP_Sch_Macro_lib.cylib\ND_P5LP_Sch_Macro_lib.cyprj" dependency="..\TDust_UDB_Lib\TDust_UDB_Lib.cylib\TDust_UDB_Lib.cyprj" />
+<wrkspc_dependency project="ND_P5LP_Sch_Macro_lib.cylib\ND_P5LP_Sch_Macro_lib.cyprj" dependency="..\Odissey1_lib\Odissey1_lib.cylib\Odissey1_lib.cyprj" />
+<wrkspc_dependency project="ND_P5LP_Sch_Macro_lib.cylib\ND_P5LP_Sch_Macro_lib.cyprj" dependency="..\ND_PSoC_Comp_lib\ND_PSoC_Comp_lib.cylib\ND_PSoC_Comp_lib.cyprj" />
 </wrkspc_dependencies>
 </CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316>
 <CyGuid_63b68103-67f5-4406-8da6-5c8625765b82 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyIgnoredSystemDepsList" version="1">

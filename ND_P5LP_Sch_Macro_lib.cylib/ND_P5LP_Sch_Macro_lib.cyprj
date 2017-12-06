@@ -70,6 +70,36 @@
 </CyGuid_ebc4f06d-207f-49c2-a540-72acf4adabc0>
 </CyGuid_813b8d13-518a-4dc8-91ba-cda6042dfb52>
 </CyGuid_4429d4ed-fe84-42d0-9e9f-19aee0ff4e7e>
+<CyGuid_4429d4ed-fe84-42d0-9e9f-19aee0ff4e7e type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtComponentSerialize" version="1">
+<CyGuid_813b8d13-518a-4dc8-91ba-cda6042dfb52 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtPhysicalFolderSerialize" version="1">
+<CyGuid_ebc4f06d-207f-49c2-a540-72acf4adabc0 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtFolderSerialize" version="3">
+<CyGuid_2f73275c-45bf-46ba-b3b1-00a2fe0c8dd8 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtBaseContainerSerialize" version="1">
+<CyGuid_31768f72-0253-412b-af77-e7dba74d1330 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtItemSerialize" version="2" name="CharLCD_PCF8574_I2C" persistent="CharLCD_PCF8574_I2C">
+<Hidden v="False" />
+</CyGuid_31768f72-0253-412b-af77-e7dba74d1330>
+<CyGuid_0820c2e7-528d-4137-9a08-97257b946089 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtItemListSerialize" version="2">
+<dependencies>
+<CyGuid_8b8ab257-35d3-4473-b57b-36315200b38b type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtFileSerialize" version="3" xml_contents_version="1">
+<CyGuid_31768f72-0253-412b-af77-e7dba74d1330 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtItemSerialize" version="2" name="CharLCD_PCF8574_I2C.cysch" persistent="CharLCD_PCF8574_I2C\CharLCD_PCF8574_I2C.cysch">
+<Hidden v="False" />
+</CyGuid_31768f72-0253-412b-af77-e7dba74d1330>
+<build_action v="OTHER;;;;" />
+<PropertyDeltas />
+</CyGuid_8b8ab257-35d3-4473-b57b-36315200b38b>
+<CyGuid_8b8ab257-35d3-4473-b57b-36315200b38b type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtFileSerialize" version="3" xml_contents_version="1">
+<CyGuid_31768f72-0253-412b-af77-e7dba74d1330 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtItemSerialize" version="2" name="CharLCD_PCF8574_I2C.cymacro" persistent="CharLCD_PCF8574_I2C\CharLCD_PCF8574_I2C.cymacro">
+<Hidden v="False" />
+</CyGuid_31768f72-0253-412b-af77-e7dba74d1330>
+<build_action v="OTHER;;;;" />
+<PropertyDeltas />
+</CyGuid_8b8ab257-35d3-4473-b57b-36315200b38b>
+</dependencies>
+</CyGuid_0820c2e7-528d-4137-9a08-97257b946089>
+</CyGuid_2f73275c-45bf-46ba-b3b1-00a2fe0c8dd8>
+<filters />
+</CyGuid_ebc4f06d-207f-49c2-a540-72acf4adabc0>
+</CyGuid_813b8d13-518a-4dc8-91ba-cda6042dfb52>
+</CyGuid_4429d4ed-fe84-42d0-9e9f-19aee0ff4e7e>
 </dependencies>
 </CyGuid_0820c2e7-528d-4137-9a08-97257b946089>
 </CyGuid_2f73275c-45bf-46ba-b3b1-00a2fe0c8dd8>
@@ -95,17 +125,11 @@
 </CyGuid_74801999-f029-40f6-b9fc-f0ee649f46c9>
 <CyGuid_495451fe-d201-4d01-b22d-5d3f5609ac37 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtComponentMgrSerialize" version="4" xml_contents_version="1">
 <library_deps>
-<library_dep persistent="..\..\..\Components\CharLCD_I2C_lib\CharLCD_I2C.cylib\CharLCD_I2C.cyprj" />
-<library_dep persistent="..\..\..\Components\Encoder_lib\Encoder_lib.cylib\Encoder_lib.cyprj" />
-<library_dep persistent="..\..\..\Components\Ext_LCD_lib\Ext_LCD_lib.cylib\Ext_LCD_lib.cyprj" />
-<library_dep persistent="..\..\..\Components\DDS32_lib\DDS32_lib.cylib\DDS32_lib.cyprj" />
-<library_dep persistent="..\..\..\Components\DDS24_lib\DDS24_lib.cylib\DDS24_lib.cyprj" />
-<library_dep persistent="..\..\..\Components\QuadDec_SW_lib\QuadDec_SW_lib.cylib\QuadDec_SW_lib.cyprj" />
-<library_dep persistent="..\..\..\Components\TDust_UDB_Lib\TDust_UDB_Lib.cylib\TDust_UDB_Lib.cyprj" />
-<library_dep persistent="..\..\..\Components\KIT-059_lib\KIT-059_lib.cylib\KIT-059_lib.cyprj" />
-<library_dep persistent="..\..\..\Components\ND_PSoC_Comp_lib\ND_PSoC_Comp_lib.cylib\ND_PSoC_Comp_lib.cyprj" />
 <library_dep persistent="${CyRoot}\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj" />
 <library_dep persistent="${CyRoot}\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj" />
+<library_dep persistent="..\..\TDust_UDB_Lib\TDust_UDB_Lib.cylib\TDust_UDB_Lib.cyprj" />
+<library_dep persistent="..\..\Odissey1_lib\Odissey1_lib.cylib\Odissey1_lib.cyprj" />
+<library_dep persistent="..\..\ND_PSoC_Comp_lib\ND_PSoC_Comp_lib.cylib\ND_PSoC_Comp_lib.cyprj" />
 </library_deps>
 <CyGuid_b0d670ad-d48f-47cb-9d0b-b1642bab195c type_name="CyDesigner.Common.Base.CyExprTypeMgr" version="1" />
 <ignored_deps />
