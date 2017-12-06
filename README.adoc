@@ -1,0 +1,8 @@
+# Creating a new Schematic Library Component
+
+* Develop the schematic normally and ensure that "Build" succeeds
+* Use Goggle "Repo" to download the "CDC Component Library"
+* Repo leaves the Libraries in a detached state s o use "git checkout master" first.
+* Load the Library Project into PSopC Creator
+* In Project Explorer "right click" on the project to start
+* Select "Add Component Item" and then 
