@@ -6,7 +6,7 @@
 <CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
 <userData>
 <dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
-<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Components">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
 <TreeKeys>
 <v>Source</v>
 <v>Components</v>
@@ -97,10 +97,8 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cysch" />
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cymacro" />
+<name v=".\ND_P5LP_Sch_Macro_lib.cylib\CharLCD_PCF8574_I2C\CharLCD_PCF8574_I2C.cymacro" />
 <name v=".\ND_P5LP_Sch_Macro_lib.cylib\CharLCD_PCF8574_I2C\CharLCD_PCF8574_I2C.cysch" />
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_I2S_Dataflow\USB_Audio_I2S_Dataflow.cysch" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -108,7 +106,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1215, 761" SelectedTabbedMdiWindow="d7701f3b-4a63-487f-83f3-60262cfb0307"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cysch" Guid="28ce4041-d73a-48da-b9e0-11cda4c81c3f" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cymacro" Guid="cd370074-64b3-47c5-b524-ca6a2f9be3f4" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\CharLCD_PCF8574_I2C\CharLCD_PCF8574_I2C.cysch" Guid="1cae59a5-bc51-4bd5-9679-b3710e7d1ad7" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_I2S_Dataflow\USB_Audio_I2S_Dataflow.cysch" Guid="d7701f3b-4a63-487f-83f3-60262cfb0307" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="941, 637" SelectedTabbedMdiWindow="9694b78c-25f9-4732-90cf-7de5e7cb1a42"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /><DocumentWindow Key="C:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\CharLCD_PCF8574_I2C\CharLCD_PCF8574_I2C.cymacro" Guid="69747d51-9203-4922-9896-60a250467084" /><DocumentWindow Key="C:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\CharLCD_PCF8574_I2C\CharLCD_PCF8574_I2C.cysch" Guid="9694b78c-25f9-4732-90cf-7de5e7cb1a42" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
