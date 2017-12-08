@@ -6,3 +6,6 @@
 * Load the Library Project into PSopC Creator
 * In Project Explorer "right click" on the project to start
 * Select "Add Component Item" and then 
+
+## To Edit a Component or Create a new one
+https://github.com/noeldiviney/P5LP_Development_repo/wiki/4-Editing-Component-Libraries-and-Test-Projects[See this Wiki Page]
