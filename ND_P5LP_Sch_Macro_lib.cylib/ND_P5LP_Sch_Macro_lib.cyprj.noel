@@ -29,6 +29,7 @@
 <v>CDC Component Catalog\API_Code</v>
 <v>CDC Component Catalog\API_Code\Digital</v>
 <v>CDC Component Catalog\Off_Chip_Annotation</v>
+<v>CDC Component Catalog\SchematicMacro</v>
 <v>CDC Component Catalog\SchematicMacro\USB_Audio</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
@@ -53,6 +54,9 @@
 <v>CDC Component Catalog\Off_Chip_Annotation\KIT</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Template</v>
 <v>CDC Component Catalog\SchematicMacro</v>
+<v>CDC Component Catalog\SchematicMacro\AudioClkGen</v>
+<v>CDC Component Catalog\SchematicMacro\USB_Audio</v>
+<v>CDC Component Catalog\SchematicMacro\USB_Audio\USB_Audio_I2S_Dataflow [v0.0]</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">

@@ -97,8 +97,8 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\CharLCD_PCF8574_I2C\CharLCD_PCF8574_I2C.cymacro" />
 <name v=".\ND_P5LP_Sch_Macro_lib.cylib\CharLCD_PCF8574_I2C\CharLCD_PCF8574_I2C.cysch" />
+<name v=".\ND_P5LP_Sch_Macro_lib.cylib\CharLCD_PCF8574_I2C\CharLCD_PCF8574_I2C.cymacro" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -106,7 +106,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="941, 637" SelectedTabbedMdiWindow="9694b78c-25f9-4732-90cf-7de5e7cb1a42"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /><DocumentWindow Key="C:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\CharLCD_PCF8574_I2C\CharLCD_PCF8574_I2C.cymacro" Guid="69747d51-9203-4922-9896-60a250467084" /><DocumentWindow Key="C:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\CharLCD_PCF8574_I2C\CharLCD_PCF8574_I2C.cysch" Guid="9694b78c-25f9-4732-90cf-7de5e7cb1a42" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="559, 358" SelectedTabbedMdiWindow="36c944d6-9c39-448f-a1fb-4f67804a8ac7"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\CharLCD_PCF8574_I2C\CharLCD_PCF8574_I2C.cysch" Guid="cc9ba31e-0776-41b2-acc5-a96bbb30b2bb" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\CharLCD_PCF8574_I2C\CharLCD_PCF8574_I2C.cymacro" Guid="36c944d6-9c39-448f-a1fb-4f67804a8ac7" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
