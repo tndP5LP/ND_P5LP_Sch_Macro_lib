@@ -6,7 +6,7 @@
 <CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
 <userData>
 <dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
-<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Components">
 <TreeKeys>
 <v>Source</v>
 <v>Components</v>
@@ -41,8 +41,8 @@
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_I2S_Dataflow_M\USB_Audio_I2S_Dataflow_M.cysch</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_I2S_Dataflow_M\USB_Audio_I2S_Dataflow_M_01.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_AudioClkGen</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_AudioClkGen\USB_AudioClkGen.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_AudioClkGen\USB_AudioClkGen.cysch</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_AudioClkGen\USB_AudioClkGen_01.cymacro</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>ND_P5LP_Sch_Macro_lib</v>
@@ -57,7 +57,6 @@
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_I2S_Dataflow_M\USB_Audio_I2S_Dataflow_M.cysch</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_I2S_Dataflow_M\USB_Audio_I2S_Dataflow_M_01.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_AudioClkGen</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_AudioClkGen\USB_AudioClkGen.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_AudioClkGen\USB_AudioClkGen.cysch</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
@@ -104,6 +103,7 @@
 <Unloaded />
 <OpenDocs>
 <name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cysch" />
+<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen_01.cymacro" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -111,7 +111,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1215, 761" SelectedTabbedMdiWindow="bb31c6c7-6864-44fd-94ef-2c5f5c5ec80b"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cysch" Guid="bb31c6c7-6864-44fd-94ef-2c5f5c5ec80b" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1215, 761" SelectedTabbedMdiWindow="23a52e33-3098-47da-a8a4-767dbec58e45"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cysch" Guid="bb31c6c7-6864-44fd-94ef-2c5f5c5ec80b" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen_01.cymacro" Guid="23a52e33-3098-47da-a8a4-767dbec58e45" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
