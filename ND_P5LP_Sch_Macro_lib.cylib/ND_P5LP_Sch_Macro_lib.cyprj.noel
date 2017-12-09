@@ -23,7 +23,7 @@
 <v>Off-Chip</v>
 </tree_states_tab_names>
 <tree_states>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDiff\OpAmpDiff [v0.0]">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDiff\OpAmpDiff_Mirror [v0.0]">
 <ExpandedNodeIds>
 <v>CDC Component Catalog</v>
 <v>CDC Component Catalog\API_Code</v>
@@ -54,6 +54,7 @@
 <v>CDC Component Catalog\Off_Chip_Annotation\Analog</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDiff</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDiff\OpAmpDiff [v0.0]</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDiff\OpAmpDiff_Mirror [v0.0]</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDual</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDual\OpAmpDual [v0.0]</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampSingle</v>
@@ -84,7 +85,6 @@
 <v>CDC Component Catalog\Off_Chip_Annotation\KIT\059\OffChip_GndNamed [v0.0]</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\KIT\059\OffChip_GndSmall [v0.0]</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\KIT\059\OffChip_JoinDot [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\KIT\059\OffChip_KIT_059 [v0.0]</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
