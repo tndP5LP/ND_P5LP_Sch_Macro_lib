@@ -29,19 +29,15 @@
 <v>CDC Component Catalog</v>
 <v>CDC Component Catalog\API_Code</v>
 <v>CDC Component Catalog\API_Code\Digital</v>
-<v>CDC Component Catalog\Off_Chip_Annotation</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Analog</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDiff</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDual</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Connector</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Connector\Audio</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Connector\Coax</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Diode</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Diode\Schottky</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\IC</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\IC\CirrusLogic</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\KIT</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\KIT\059</v>
 <v>CDC Component Catalog\SchematicMacro</v>
 <v>CDC Component Catalog\SchematicMacro\CharLCD</v>
@@ -59,38 +55,13 @@
 <v>CDC Component Catalog\API_Code\Utility</v>
 <v>CDC Component Catalog\Component</v>
 <v>CDC Component Catalog\Off_Chip_Annotation</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Analog</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDiff</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDiff\OpAmpDiff [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDiff\OpAmpDiff_Mirror [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDual</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDual\OpAmpDual [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampSingle</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Connector</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Connector\Audio</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Connector\Audio\Jack_TRRS [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Connector\Audio\Jack_TRS [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Connector\Coax</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Connector\Coax\Coax_SMB [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Digital</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Diode</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Diode\Schottky</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Diode\Schottky\DualParKK [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Diode\Schottky\DualSerAK [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Diode\Schottky\DualSerAK_V1 [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Diode\Schottky\DualSerAK_V2 [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Display</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\IC</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\IC\CirrusLogic</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\IC\CirrusLogic\Codec_CS4272_HW [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\IC\CirrusLogic\WM8731_HW [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\IC\NXP</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs\Si5351A_HW [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs\Si5351A_IC_SYM [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs\Si8602_HW [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs\Si8661_HW [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\Kit</v>
+<v>CDC Component Catalog\SchematicMacro</v>
+<v>CDC Component Catalog\SchematicMacro\CharLCD</v>
+<v>CDC Component Catalog\SchematicMacro\CharLCD\CharLCD_I2C_M [v0.0]</v>
+<v>CDC Component Catalog\SchematicMacro\USB_Audio</v>
+<v>CDC Component Catalog\SchematicMacro\USB_Audio\USB_Audio_Async_Ctl_M [v0.0]</v>
+<v>CDC Component Catalog\SchematicMacro\USB_Audio\USB_Audio_I2S_Dataflow_M [v0.0]</v>
+<v>CDC Component Catalog\SchematicMacro\USB_Audio\USB_AudioClkGen [v0.0]</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
