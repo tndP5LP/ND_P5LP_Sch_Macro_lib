@@ -19,11 +19,12 @@
 <tree_states_tab_names>
 <v>CDC</v>
 <v>Cypress</v>
+<v>Default</v>
 <v>FMx</v>
 <v>Off-Chip</v>
 </tree_states_tab_names>
 <tree_states>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="CDC Component Catalog\Off_Chip_Annotation\Connector\Coax\Coax_SMB [v0.0]">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDiff\OpAmpDiff [v0.0]">
 <ExpandedNodeIds>
 <v>CDC Component Catalog</v>
 <v>CDC Component Catalog\API_Code</v>
@@ -76,6 +77,8 @@
 <v>CDC Component Catalog\Off_Chip_Annotation\Diode\Schottky</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Diode\Schottky\DualParKK [v0.0]</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Diode\Schottky\DualSerAK [v0.0]</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Diode\Schottky\DualSerAK_V1 [v0.0]</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Diode\Schottky\DualSerAK_V2 [v0.0]</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Display</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\IC</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\IC\CirrusLogic</v>
@@ -88,8 +91,6 @@
 <v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs\Si8602_HW [v0.0]</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs\Si8661_HW [v0.0]</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Kit</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\KIT</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\KIT\059</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -114,6 +115,15 @@
 <v>Cypress Component Catalog\Primitive</v>
 <v>Cypress Component Catalog\System</v>
 <v>Cypress Component Catalog\Thermal Management</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Default Component Catalog</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Default Component Catalog</v>
+<v>Default Component Catalog\Components</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
