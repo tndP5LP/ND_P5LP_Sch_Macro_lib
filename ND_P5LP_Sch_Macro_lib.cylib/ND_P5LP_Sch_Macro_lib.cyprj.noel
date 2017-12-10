@@ -23,7 +23,7 @@
 <v>Off-Chip</v>
 </tree_states_tab_names>
 <tree_states>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDiff\OpAmpDiff_Mirror [v0.0]">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="CDC Component Catalog\Off_Chip_Annotation\Connector\Coax\Coax_SMB [v0.0]">
 <ExpandedNodeIds>
 <v>CDC Component Catalog</v>
 <v>CDC Component Catalog\API_Code</v>
@@ -32,6 +32,11 @@
 <v>CDC Component Catalog\Off_Chip_Annotation\Analog</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDiff</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDual</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Connector</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Connector\Audio</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Connector\Coax</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Diode</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Diode\Schottky</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\IC</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\IC\CirrusLogic</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\IC\SiliconLabs</v>
@@ -42,6 +47,8 @@
 <v>CDC Component Catalog\SchematicMacro\USB_Audio</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
+<v>CDC Component Catalog</v>
+<v>CDC Component Catalog\API_Code</v>
 <v>CDC Component Catalog\API_Code\Codec</v>
 <v>CDC Component Catalog\API_Code\Digital</v>
 <v>CDC Component Catalog\API_Code\Digital\Comp_QuadDecoder [v0.0]</v>
@@ -59,8 +66,16 @@
 <v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampDual\OpAmpDual [v0.0]</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Analog\OpampSingle</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Connector</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Connector\Audio</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Connector\Audio\Jack_TRRS [v0.0]</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Connector\Audio\Jack_TRS [v0.0]</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Connector\Coax</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Connector\Coax\Coax_SMB [v0.0]</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Digital</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Diode</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Diode\Schottky</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Diode\Schottky\DualParKK [v0.0]</v>
+<v>CDC Component Catalog\Off_Chip_Annotation\Diode\Schottky\DualSerAK [v0.0]</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\Display</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\IC</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\IC\CirrusLogic</v>
@@ -75,16 +90,6 @@
 <v>CDC Component Catalog\Off_Chip_Annotation\Kit</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\KIT</v>
 <v>CDC Component Catalog\Off_Chip_Annotation\KIT\059</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\KIT\059\OffChip_CapLarge [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\KIT\059\OffChip_CapLargeV [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\KIT\059\OffChip_CapSmall [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\KIT\059\OffChip_CapSmallV [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\KIT\059\OffChip_DAC [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\KIT\059\OffChip_FBead [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\KIT\059\OffChip_FBead_S [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\KIT\059\OffChip_GndNamed [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\KIT\059\OffChip_GndSmall [v0.0]</v>
-<v>CDC Component Catalog\Off_Chip_Annotation\KIT\059\OffChip_JoinDot [v0.0]</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
