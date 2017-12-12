@@ -27,7 +27,7 @@
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Source Files</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\P5LP_059_DBG.cysch">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\P5LP_059_DBG.cymacro">
 <ExpandedNodeIds>
 <v>ND_P5LP_Sch_Macro_lib</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib</v>
@@ -41,11 +41,8 @@
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Codec_CS4272_M2\Codec_CS4272_M2.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Codec_CS4272_M2\Codec_CS4272_M2.cysch</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\API</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\API\Debug_059..h</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\API\Debug_059.c</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\P5LP_059_DBG.cysch</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\P5LP_059_DBG_01.cymacro</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\P5LP_059_DBG.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Async_Ctl_M</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Async_Ctl_M\USB_Audio_Async_Ctl_M.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Async_Ctl_M\USB_Audio_Async_Ctl_M.cysch</v>
@@ -69,10 +66,8 @@
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Codec_CS4272_M2\Codec_CS4272_M2.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Codec_CS4272_M2\Codec_CS4272_M2.cysch</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\API</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\API\Debug_059..h</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\API\Debug_059.c</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\P5LP_059_DBG.cysch</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\P5LP_059_DBG.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Async_Ctl_M</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Async_Ctl_M\USB_Audio_Async_Ctl_M.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Async_Ctl_M\USB_Audio_Async_Ctl_M.cysch</v>
@@ -127,9 +122,7 @@
 <Unloaded />
 <OpenDocs>
 <name v=".\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG.cysch" />
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\API\Debug_059.c" />
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\API\Debug_059..h" />
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG_01.cymacro" />
+<name v=".\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG.cymacro" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -137,7 +130,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1215, 761" SelectedTabbedMdiWindow="c0040510-6f40-4795-92f5-1d8601f3b73e"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG.cysch" Guid="0acca5b7-f8a5-4d9d-88fe-00a835546948" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\API\Debug_059.c" Guid="4902d746-3c1b-4e57-9e4f-374049af1afd" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\API\Debug_059..h" Guid="818ad1fb-f28f-4ad2-b738-fc8f75ff9acd" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG_01.cymacro" Guid="c0040510-6f40-4795-92f5-1d8601f3b73e" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1215, 761" SelectedTabbedMdiWindow="6146cf84-a215-428f-82a6-6cc580a5cece"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG.cysch" Guid="0acca5b7-f8a5-4d9d-88fe-00a835546948" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG.cymacro" Guid="6146cf84-a215-428f-82a6-6cc580a5cece" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
