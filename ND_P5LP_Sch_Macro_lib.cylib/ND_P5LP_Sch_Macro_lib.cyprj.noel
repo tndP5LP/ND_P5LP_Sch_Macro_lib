@@ -19,7 +19,6 @@
 <tree_states_tab_names>
 <v>CDC</v>
 <v>Cypress</v>
-<v>Default</v>
 <v>FMx</v>
 <v>Off-Chip</v>
 </tree_states_tab_names>
@@ -29,6 +28,7 @@
 <v>CDC Component Catalog</v>
 <v>CDC Component Catalog\API_Code</v>
 <v>CDC Component Catalog\API_Code\Debug</v>
+<v>CDC Component Catalog\API_Code\Debug\P5LP_059_Debug</v>
 <v>CDC Component Catalog\API_Code\Debug\TriggerScope</v>
 <v>CDC Component Catalog\API_Code\Digital</v>
 <v>CDC Component Catalog\API_Code\Display</v>
@@ -56,6 +56,8 @@
 <v>CDC Component Catalog\API_Code</v>
 <v>CDC Component Catalog\API_Code\Codec</v>
 <v>CDC Component Catalog\API_Code\Debug</v>
+<v>CDC Component Catalog\API_Code\Debug\P5LP_059_Debug</v>
+<v>CDC Component Catalog\API_Code\Debug\P5LP_059_Debug\P5LP_059_Debug [v0.0]</v>
 <v>CDC Component Catalog\API_Code\Debug\TriggerScope</v>
 <v>CDC Component Catalog\API_Code\Debug\TriggerScope\TriggerScope [v0.0]</v>
 <v>CDC Component Catalog\API_Code\Digital</v>
@@ -76,6 +78,7 @@
 <v>CDC Component Catalog\SchematicMacro\CharLCD</v>
 <v>CDC Component Catalog\SchematicMacro\CharLCD\CharLCD_I2C_M [v0.0]</v>
 <v>CDC Component Catalog\SchematicMacro\Debug</v>
+<v>CDC Component Catalog\SchematicMacro\Debug\P5LP_059_DBG [v0.0]</v>
 <v>CDC Component Catalog\SchematicMacro\Debug\ScopeTrigger [v0.0]</v>
 <v>CDC Component Catalog\SchematicMacro\USB_Audio</v>
 <v>CDC Component Catalog\SchematicMacro\USB_Audio\Codec_CS4272_M1 [v0.0]</v>
@@ -107,15 +110,6 @@
 <v>Cypress Component Catalog\Primitive</v>
 <v>Cypress Component Catalog\System</v>
 <v>Cypress Component Catalog\Thermal Management</v>
-</VisibleNodeIds>
-</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
-<ExpandedNodeIds>
-<v>Default Component Catalog</v>
-</ExpandedNodeIds>
-<VisibleNodeIds>
-<v>Default Component Catalog</v>
-<v>Default Component Catalog\Components</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
