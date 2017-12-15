@@ -48,6 +48,7 @@
 <v>CDC Component Catalog\Off_Chip_Annotation\KIT\059</v>
 <v>CDC Component Catalog\SchematicMacro</v>
 <v>CDC Component Catalog\SchematicMacro\CharLCD</v>
+<v>CDC Component Catalog\SchematicMacro\Debug</v>
 <v>CDC Component Catalog\SchematicMacro\USB_Audio</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
@@ -67,13 +68,15 @@
 <v>CDC Component Catalog\API_Code\PLL_Synth\Si5351A [v0.0]</v>
 <v>CDC Component Catalog\API_Code\Utility</v>
 <v>CDC Component Catalog\API_Code\Utility\TinyPrintf</v>
-<v>CDC Component Catalog\API_Code\Utility\TinyPrintf\TinyPrintf [v1.1]</v>
+<v>CDC Component Catalog\API_Code\Utility\TinyPrintf\TinyPrintf [v0.0]</v>
+<v>CDC Component Catalog\API_Code\Utility\TinyPrintf\TinyPrintf_LCD [v0.0]</v>
 <v>CDC Component Catalog\Component</v>
 <v>CDC Component Catalog\Off_Chip_Annotation</v>
 <v>CDC Component Catalog\SchematicMacro</v>
 <v>CDC Component Catalog\SchematicMacro\CharLCD</v>
 <v>CDC Component Catalog\SchematicMacro\CharLCD\CharLCD_I2C_M [v0.0]</v>
-<v>CDC Component Catalog\SchematicMacro\P5LP_059</v>
+<v>CDC Component Catalog\SchematicMacro\Debug</v>
+<v>CDC Component Catalog\SchematicMacro\Debug\ScopeTrigger [v0.0]</v>
 <v>CDC Component Catalog\SchematicMacro\USB_Audio</v>
 <v>CDC Component Catalog\SchematicMacro\USB_Audio\Codec_CS4272_M1 [v0.0]</v>
 <v>CDC Component Catalog\SchematicMacro\USB_Audio\Codec_CS4272_M2 [v0.0]</v>
