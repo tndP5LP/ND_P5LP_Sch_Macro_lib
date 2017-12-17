@@ -127,10 +127,10 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
+<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cysch" />
 <name v=".\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG.cysch" />
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\ScopeTrigger\ScopeTrigger.cysch" />
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\ScopeTrigger\ScopeTrigger.cymacro" />
 <name v=".\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG.cymacro" />
+<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cymacro" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -138,7 +138,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1215, 761" SelectedTabbedMdiWindow="0999e90e-8f5c-48e7-afee-b87a6364b322"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG.cysch" Guid="0acca5b7-f8a5-4d9d-88fe-00a835546948" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\ScopeTrigger\ScopeTrigger.cysch" Guid="2a90cc56-bcec-472e-a8b0-a73c76699ad8" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\ScopeTrigger\ScopeTrigger.cymacro" Guid="b81a300e-a58e-44b7-8037-fbbbf0d0f543" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG.cymacro" Guid="0999e90e-8f5c-48e7-afee-b87a6364b322" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="941, 637" SelectedTabbedMdiWindow="b2540000-16b6-4819-b204-e72c0f7703dd"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /><DocumentWindow Key="C:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cysch" Guid="959111f9-8948-4a5b-84d1-348278a540b0" /><DocumentWindow Key="C:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG.cysch" Guid="cb0fff57-cd8a-49bd-9d78-89e802b98193" /><DocumentWindow Key="C:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG.cymacro" Guid="647ae16c-99e3-4d2e-b96d-dd85c908c12d" /><DocumentWindow Key="C:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cymacro" Guid="b2540000-16b6-4819-b204-e72c0f7703dd" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
