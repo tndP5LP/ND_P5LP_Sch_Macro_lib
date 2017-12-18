@@ -6,7 +6,7 @@
 <CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
 <userData>
 <dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
-<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Components">
 <TreeKeys>
 <v>Source</v>
 <v>Components</v>
@@ -27,19 +27,13 @@
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Source Files</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_I2S_Dataflow_M">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_CS4272_M1\USB_Audio_CS4272_M1.cymacro">
 <ExpandedNodeIds>
 <v>ND_P5LP_Sch_Macro_lib</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\CharLCD_I2C_M</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\CharLCD_I2C_M\CharLCD_I2C_M.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\CharLCD_I2C_M\CharLCD_I2C_M.cysch</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Codec_CS4272_M1</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Codec_CS4272_M1\Codec_CS4272_M1.cymacro</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Codec_CS4272_M1\Codec_CS4272_M1.cysch</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Codec_CS4272_M2</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Codec_CS4272_M2\Codec_CS4272_M2.cymacro</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Codec_CS4272_M2\Codec_CS4272_M2.cysch</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\P5LP_059_DBG.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\P5LP_059_DBG.cysch</v>
@@ -49,9 +43,18 @@
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Async_Ctl_M</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Async_Ctl_M\USB_Audio_Async_Ctl_M.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Async_Ctl_M\USB_Audio_Async_Ctl_M.cysch</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_I2S_Dataflow_M</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_I2S_Dataflow_M\USB_Audio_I2S_Dataflow_M.cymacro</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_I2S_Dataflow_M\USB_Audio_I2S_Dataflow_M.cysch</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_CS4272_M1</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_CS4272_M1\USB_Audio_CS4272_M1.cymacro</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_CS4272_M1\USB_Audio_CS4272_M1.cysch</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_CS4272_M2</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_CS4272_M2\USB_Audio_CS4272_M2.cymacro</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_CS4272_M2\USB_Audio_CS4272_M2.cysch</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Dataflow</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Dataflow\USB_Audio_Dataflow.cymacro</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Dataflow\USB_Audio_Dataflow.cysch</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Debug</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Debug\USB_Audio_Debug.cymacro</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Debug\USB_Audio_Debug.cysch</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_AudioClkGen</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_AudioClkGen\USB_AudioClkGen.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_AudioClkGen\USB_AudioClkGen.cysch</v>
@@ -62,12 +65,6 @@
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\CharLCD_I2C_M</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\CharLCD_I2C_M\CharLCD_I2C_M.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\CharLCD_I2C_M\CharLCD_I2C_M.cysch</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Codec_CS4272_M1</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Codec_CS4272_M1\Codec_CS4272_M1.cymacro</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Codec_CS4272_M1\Codec_CS4272_M1.cysch</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Codec_CS4272_M2</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Codec_CS4272_M2\Codec_CS4272_M2.cymacro</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Codec_CS4272_M2\Codec_CS4272_M2.cysch</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\P5LP_059_DBG.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\P5LP_059_DBG.cysch</v>
@@ -77,9 +74,18 @@
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Async_Ctl_M</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Async_Ctl_M\USB_Audio_Async_Ctl_M.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Async_Ctl_M\USB_Audio_Async_Ctl_M.cysch</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_I2S_Dataflow_M</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_I2S_Dataflow_M\USB_Audio_I2S_Dataflow_M.cymacro</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_I2S_Dataflow_M\USB_Audio_I2S_Dataflow_M.cysch</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_CS4272_M1</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_CS4272_M1\USB_Audio_CS4272_M1.cymacro</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_CS4272_M1\USB_Audio_CS4272_M1.cysch</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_CS4272_M2</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_CS4272_M2\USB_Audio_CS4272_M2.cymacro</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_CS4272_M2\USB_Audio_CS4272_M2.cysch</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Dataflow</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Dataflow\USB_Audio_Dataflow.cymacro</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Dataflow\USB_Audio_Dataflow.cysch</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Debug</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Debug\USB_Audio_Debug.cymacro</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_Debug\USB_Audio_Debug.cysch</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_AudioClkGen</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_AudioClkGen\USB_AudioClkGen.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_AudioClkGen\USB_AudioClkGen.cysch</v>
@@ -127,8 +133,13 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG.cysch" />
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG.cymacro" />
+<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cysch" />
+<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cymacro" />
+<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_Dataflow\USB_Audio_Dataflow.cysch" />
+<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_Dataflow\USB_Audio_Dataflow.cymacro" />
+<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_Debug\USB_Audio_Debug.cymacro" />
+<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_Debug\USB_Audio_Debug.cysch" />
+<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_CS4272_M2\USB_Audio_CS4272_M2.cymacro" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -136,7 +147,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1215, 761" SelectedTabbedMdiWindow="7560bfe0-cdb8-4aa7-a7cf-5741cfc050f8"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG.cysch" Guid="7560bfe0-cdb8-4aa7-a7cf-5741cfc050f8" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_059_DBG\P5LP_059_DBG.cymacro" Guid="28e5b608-961e-4069-a5cf-cce9c9f25df4" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1215, 761" SelectedTabbedMdiWindow="cd04553c-f705-4c5d-8c5a-d56e2a32ace1"><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cysch" Guid="277e7bf6-f915-4837-8682-54f930d8d513" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cymacro" Guid="0d3651b7-6f8a-4739-8248-89b4eabaf3af" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_Dataflow\USB_Audio_Dataflow.cysch" Guid="3b2a9379-26cf-48c7-809b-1087928b4051" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_Dataflow\USB_Audio_Dataflow.cymacro" Guid="ba6bcba7-0096-462c-9bda-56b9bc64aa17" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_Debug\USB_Audio_Debug.cymacro" Guid="52afe9b6-a3bb-4794-80d4-f7e0a6e99438" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_Debug\USB_Audio_Debug.cysch" Guid="de5fff53-5928-4c42-b53d-440134e5e7e2" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_CS4272_M2\USB_Audio_CS4272_M2.cymacro" Guid="cd04553c-f705-4c5d-8c5a-d56e2a32ace1" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
