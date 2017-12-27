@@ -27,16 +27,16 @@
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\Source Files</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\USB_Audio_CS4272_M1\USB_Audio_CS4272_M1.cymacro">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_DBG\P5LP_DBG.cymacro">
 <ExpandedNodeIds>
 <v>ND_P5LP_Sch_Macro_lib</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\CharLCD_I2C_M</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\CharLCD_I2C_M\CharLCD_I2C_M.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\CharLCD_I2C_M\CharLCD_I2C_M.cysch</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\P5LP_059_DBG.cymacro</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\P5LP_059_DBG.cysch</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_DBG</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_DBG\P5LP_DBG.cysch</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_DBG\P5LP_DBG.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\ScopeTrigger</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\ScopeTrigger\ScopeTrigger.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\ScopeTrigger\ScopeTrigger.cysch</v>
@@ -65,9 +65,9 @@
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\CharLCD_I2C_M</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\CharLCD_I2C_M\CharLCD_I2C_M.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\CharLCD_I2C_M\CharLCD_I2C_M.cysch</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\P5LP_059_DBG.cymacro</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_059_DBG\P5LP_059_DBG.cysch</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_DBG</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_DBG\P5LP_DBG.cysch</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_DBG\P5LP_DBG.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\ScopeTrigger</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\ScopeTrigger\ScopeTrigger.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\ScopeTrigger\ScopeTrigger.cysch</v>
@@ -133,13 +133,8 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cysch" />
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cymacro" />
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_Dataflow\USB_Audio_Dataflow.cysch" />
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_Dataflow\USB_Audio_Dataflow.cymacro" />
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_Debug\USB_Audio_Debug.cymacro" />
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_Debug\USB_Audio_Debug.cysch" />
-<name v=".\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_CS4272_M2\USB_Audio_CS4272_M2.cymacro" />
+<name v=".\ND_P5LP_Sch_Macro_lib.cylib\P5LP_DBG\P5LP_DBG.cysch" />
+<name v=".\ND_P5LP_Sch_Macro_lib.cylib\P5LP_DBG\P5LP_DBG.cymacro" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -147,7 +142,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1215, 761" SelectedTabbedMdiWindow="cd04553c-f705-4c5d-8c5a-d56e2a32ace1"><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cysch" Guid="277e7bf6-f915-4837-8682-54f930d8d513" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_AudioClkGen\USB_AudioClkGen.cymacro" Guid="0d3651b7-6f8a-4739-8248-89b4eabaf3af" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_Dataflow\USB_Audio_Dataflow.cysch" Guid="3b2a9379-26cf-48c7-809b-1087928b4051" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_Dataflow\USB_Audio_Dataflow.cymacro" Guid="ba6bcba7-0096-462c-9bda-56b9bc64aa17" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_Debug\USB_Audio_Debug.cymacro" Guid="52afe9b6-a3bb-4794-80d4-f7e0a6e99438" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_Debug\USB_Audio_Debug.cysch" Guid="de5fff53-5928-4c42-b53d-440134e5e7e2" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\USB_Audio_CS4272_M2\USB_Audio_CS4272_M2.cymacro" Guid="cd04553c-f705-4c5d-8c5a-d56e2a32ace1" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1215, 761" SelectedTabbedMdiWindow="d9967127-f3e1-4449-bf9f-48a105d3bc5c"><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_DBG\P5LP_DBG.cysch" Guid="0f1ec823-15bf-485a-b860-cf71fb94b6ad" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_DBG\P5LP_DBG.cymacro" Guid="d9967127-f3e1-4449-bf9f-48a105d3bc5c" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
