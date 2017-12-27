@@ -35,8 +35,8 @@
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\CharLCD_I2C_M\CharLCD_I2C_M.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\CharLCD_I2C_M\CharLCD_I2C_M.cysch</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_DBG</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_DBG\P5LP_DBG.cysch</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_DBG\P5LP_DBG.cymacro</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_DBG\P5LP_DBG.cysch</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\ScopeTrigger</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\ScopeTrigger\ScopeTrigger.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\ScopeTrigger\ScopeTrigger.cysch</v>
@@ -66,8 +66,8 @@
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\CharLCD_I2C_M\CharLCD_I2C_M.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\CharLCD_I2C_M\CharLCD_I2C_M.cysch</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_DBG</v>
-<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_DBG\P5LP_DBG.cysch</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_DBG\P5LP_DBG.cymacro</v>
+<v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\P5LP_DBG\P5LP_DBG.cysch</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\ScopeTrigger</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\ScopeTrigger\ScopeTrigger.cymacro</v>
 <v>ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib\ScopeTrigger\ScopeTrigger.cysch</v>
@@ -142,7 +142,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1215, 761" SelectedTabbedMdiWindow="d9967127-f3e1-4449-bf9f-48a105d3bc5c"><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_DBG\P5LP_DBG.cysch" Guid="0f1ec823-15bf-485a-b860-cf71fb94b6ad" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_DBG\P5LP_DBG.cymacro" Guid="d9967127-f3e1-4449-bf9f-48a105d3bc5c" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1215, 761" SelectedTabbedMdiWindow="d9967127-f3e1-4449-bf9f-48a105d3bc5c"><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_DBG\P5LP_DBG.cysch" Guid="0f1ec823-15bf-485a-b860-cf71fb94b6ad" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsDev\ND_P5LP_Sch_Macro_lib\ND_P5LP_Sch_Macro_lib.cylib\P5LP_DBG\P5LP_DBG.cymacro" Guid="d9967127-f3e1-4449-bf9f-48a105d3bc5c" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
