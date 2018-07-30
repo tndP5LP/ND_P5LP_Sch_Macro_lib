@@ -9,11 +9,15 @@
 <projects>
 <v>.\tndSch_Macro_lib.cylib\tndSch_Macro_lib.cyprj</v>
 </projects>
-<workspace_id v="1581fa3d-7d9f-475d-9dea-39811987f52b" />
+<workspace_id v="8db2c2b1-ddda-47b9-b35c-dda0e31ce898" />
 <WriteAppVersionLastSavedWith v="4.2.0.641" />
 <WriteAppMarketingVersionLastSavedWith v="4.2" />
 <CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyPrjDependencyList" version="4">
 <wrkspc_dependencies>
+<wrkspc_dependency project="tndSch_Macro_lib.cylib\tndSch_Macro_lib.cyprj" dependency="..\USBAudio_lib\USBAudio_lib.cylib\USBAudio_lib.cyprj" />
+<wrkspc_dependency project="tndSch_Macro_lib.cylib\tndSch_Macro_lib.cyprj" dependency="..\TDust_UDB_lib\TDust_UDB_Lib.cylib\TDust_UDB_Lib.cyprj" />
+<wrkspc_dependency project="tndSch_Macro_lib.cylib\tndSch_Macro_lib.cyprj" dependency="..\Odissey1_lib\Odissey1_lib.cylib\Odissey1_lib.cyprj" />
+<wrkspc_dependency project="tndSch_Macro_lib.cylib\tndSch_Macro_lib.cyprj" dependency="..\tndComponent_lib\tndComponent_lib.cylib\tndComponent_lib.cyprj" />
 </wrkspc_dependencies>
 </CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316>
 <CyGuid_63b68103-67f5-4406-8da6-5c8625765b82 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyIgnoredSystemDepsList" version="1">
